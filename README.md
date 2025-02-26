@@ -1,4 +1,5 @@
 🚨THIS IS FOR EDUCATIONAL PURPOSES ONLY🚨
+
 🚨DO ONLY USE THIS ON YOUR OWN PC OR ON PC'S YOU HAVE THE PERMISSION TO DO IT🚨
 
 First you move "passwordchanger.vbs" on an USB Stick then you hold shift while restarting the victim PC.
