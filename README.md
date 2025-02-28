@@ -1,6 +1,6 @@
-🚨THIS IS FOR EDUCATIONAL PURPOSES ONLY🚨
+**🚨THIS IS FOR EDUCATIONAL PURPOSES ONLY🚨**
 
-🚨DO ONLY USE THIS ON YOUR OWN PC OR ON PC'S YOU HAVE THE PERMISSION TO DO IT🚨
+**🚨DO ONLY USE THIS ON YOUR OWN PC OR ON PC'S YOU HAVE THE PERMISSION TO DO IT🚨**
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-✅Now you jsut need to wait for the script to finish...✅
+✅Now you just need to wait for the script to finish...✅
 
 
 The PC will reboot, then you just press the Accesibility Options on the bootom left of the login screen. After you did that a new cmd windows will open, now type "control userpasswords2" then select the user and press reset password, now type the new password in and press ok, apply and ok.
