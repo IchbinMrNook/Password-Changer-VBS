@@ -1,9 +1,9 @@
 🚨**THIS IS FOR EDUCATIONAL PURPOSES ONLY**🚨
+
 🚨**ONLY USE THIS ON YOUR OWN PC OR ON PCS YOU HAVE PERMISSION TO USE IT ON**🚨
-
-
-
-
+.
+.
+.
 📜**Tutorial**📜
 
 First, move "passwordchanger.vbs" onto a USB stick. Then, hold Shift while restarting the target PC. After that, start "passwordchanger.vbs" in a cmd window that you open from the advanced options in Windows recovery.
