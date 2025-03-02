@@ -1,29 +1,20 @@
-**🚨THIS IS FOR EDUCATIONAL PURPOSES ONLY🚨**
+🚨**THIS IS FOR EDUCATIONAL PURPOSES ONLY**🚨
 
-**🚨DO ONLY USE THIS ON YOUR OWN PC OR ON PC'S YOU HAVE THE PERMISSION TO DO IT🚨**
-
-
-
-
-📜Tutorial📜 
-First you move "passwordchanger.vbs" on an USB Stick then you hold shift while restarting the victim PC.
-After that, start "passwordchanger.vbs" in a cmd windows that you open from advanced options in windows recovery.
+🚨**ONLY USE THIS ON YOUR OWN PC OR ON PCS YOU HAVE PERMISSION TO USE IT ON**🚨
 
 
 
 
-✅Now you just need to wait for the script to finish...✅
+📜**Tutorial**📜
+First, move "passwordchanger.vbs" onto a USB stick. Then, hold Shift while restarting the target PC. After that, start "passwordchanger.vbs" in a cmd window that you open from the advanced options in Windows recovery.
+
+✅ Now, just wait for the script to finish... ✅
+
+The PC will reboot. Then, press the Accessibility Options button at the bottom left of the login screen. After doing that, a new cmd window will open. Now, type "control userpasswords2", select the user, and press Reset Password. Enter the new password, press OK, then Apply, and again OK.
 
 
-The PC will reboot, then you just press the Accesibility Options on the bootom left of the login screen. After you did that a new cmd windows will open, now type "control userpasswords2" then select the user and press reset password, now type the new password in and press ok, apply and ok.
 
+✅✅✅ That's it! ✅✅✅
+Now, just close everything and log in with the new password. :)
 
-
-
-✅✅✅That's it!✅✅✅
-
-
-Now just close everything and login with the new set password :)
-
-
-The changes you made will stay and that includes the cmd windows opening when clicking on accesibility options, maybe i'll add it if i get enough stars and the people want it idk :).
+The changes you made will remain, including the cmd window opening when clicking on Accessibility Options. Maybe I'll add a fix for that if I get enough stars and people want it, idk. 🤷‍♂️
