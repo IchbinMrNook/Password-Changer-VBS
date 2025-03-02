@@ -5,9 +5,10 @@
 
 
 
-📜Tutorial📜:First you move "passwordchanger.vbs" on an USB Stick then you hold shift while restarting the victim PC.
-              After that you need to start "passwordchanger.vbs" in a cmd windows that you open from advanced options in windows recovery.
-              Then just start the file via cmd and that's it :). 
+📜Tutorial📜 
+First you move "passwordchanger.vbs" on an USB Stick then you hold shift while restarting the victim PC.
+After that, start "passwordchanger.vbs" in a cmd windows that you open from advanced options in windows recovery.
+
 
 
 
